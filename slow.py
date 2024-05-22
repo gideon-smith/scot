@@ -1,6 +1,6 @@
 program = input("")
 point_pos = 0
-point_val = "?"
+point_val = 0
 tape = [0]
 tape_bound1 = 0
 tape_bound0 = 0
